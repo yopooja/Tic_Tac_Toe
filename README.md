@@ -1,6 +1,8 @@
 # Tic_Tac_Toe
 
-Simple Tic Tac Toe android App
-1.Easy level AI
-2.Working with optimal speed
-3.Problem that the cells of  tic tac toe table merge with each other on certain moves.
+It is a simple Tic Tac Toe android app game which has different levels.
+ 1.Easy level with two players.
+ 2.Easy level with AI.
+ 3.Difficult level with AI.
+ 
+ 
